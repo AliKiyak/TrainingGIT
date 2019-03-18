@@ -1,5 +1,7 @@
-[NAAM] is de beste in talen.
-[NAAM] is het meest sportief.
-[NAAM] is de beste programmeur.
-[NAAM] is het grappigst.
-[NAAM] is de beste gamer.
+[victor] is de beste in talen.
+[victor] is het meest sportief.
+[victor] is de beste programmeur.
+[victor] is het grappigst.
+[goodie] is de beste gamer.
+[roy] is de slechste drinker.
+
