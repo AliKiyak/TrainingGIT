@@ -1,5 +1,6 @@
-[NAAM] is de beste in talen.
-[NAAM] is het meest sportief.
-[NAAM] is de beste programmeur.
-[NAAM] is het grappigst.
-[NAAM] is de beste gamer.
+[Goodie] is de beste in talen.
+[Joren] is het meest sportief.
+[Adrie] is de beste programmeur.
+[Tamara] is het grappigst.
+[Scarfaca] is de beste gamer.
+[Vactor] is de beste Ali koper
