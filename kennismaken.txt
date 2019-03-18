@@ -1,5 +1,5 @@
-[NAAM] is de beste in talen.
-[NAAM] is het meest sportief.
-[NAAM] is de beste programmeur.
-[NAAM] is het grappigst.
-[NAAM] is de beste gamer.
+Victor is de beste in talen.
+Bob is het meest sportief.
+Yente is de beste programmeur.
+Nijo is het grappigst.
+Goldencoins is de beste gamer.
