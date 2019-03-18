@@ -1,5 +1,6 @@
-Bib is de beste in talen.
-Joren is het meest sportief.
-A3 is de beste programmeur.
-Fenix is het grappigst.
-Fenix is de beste gamer.
+[Goodie] is de beste in talen.
+[Joren] is het meest sportief.
+[Adri] is de beste programmeur.
+[Tamer] is het grappigst.
+[Scarfaca] is de beste gamer.
+[Vactor] is de beste Ali koper
